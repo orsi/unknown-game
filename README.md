@@ -10,3 +10,7 @@ An unknown game of unknown design.
 - players should be ignorant unless they learn through playing: this game should have no numbers, healthbars, or any indication of game mechanics
 - related to previous rules: in this game, allowing players to see indications of game mechanics (damage, health points, durability, etc.) should require them to achieve some related skill first
 - this game should encourage rest; limit the amount of time players can play; rewards for playing are only given while not playing, e.g. a player builds up potential skill points while playing, but only are given the skill points while they aren't playing
+- the game form factor should work on mobile phones; the game should implement purposeful landscape/portrait view changes in its gameplay
+- the game should follow a sequential 'room' or 'scenario' based structure where each room has different mechanics
+  - e.g. player must collect and use items to escape a room (landscape view) -> player exits room to outside and must run north through a forest path in a set time (portrait view)
+- the game should start out incredibly minimalistic in game mechanics (tap/click only) -> as player progresses, the game should include mechanics on more inputs

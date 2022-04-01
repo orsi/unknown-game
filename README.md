@@ -14,3 +14,4 @@ An unknown game of unknown design.
 - the game should follow a sequential 'room' or 'scenario' based structure where each room has different mechanics
   - e.g. player must collect and use items to escape a room (landscape view) -> player exits room to outside and must run north through a forest path in a set time (portrait view)
 - the game should start out incredibly minimalistic in game mechanics (tap/click only) -> as player progresses, the game should include mechanics on more inputs
+- the game should go through some historical game mechanics: text-based adventure -> ascii map (L.O.R.D. 2) -> primitive 3d (ultima 3) -> tile map (iso?) -> drawn (legend of mana)

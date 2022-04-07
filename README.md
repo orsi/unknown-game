@@ -4,7 +4,7 @@ An unknown game of unknown design.
 ### Requirements
 [git](https://git-scm.com)
 [VS Code](https://code.visualstudio.com)
-[Deno](https://deno.land)
+[Deno](https://deno.land) >1.20
 
 ### Install & Run
 ```sh

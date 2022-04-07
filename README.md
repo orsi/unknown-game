@@ -2,9 +2,9 @@
 An unknown game of unknown design.
 
 ### Requirements
-[git](https://git-scm.com)
-[VS Code](https://code.visualstudio.com)
-[Deno](https://deno.land) >1.20
+[git](https://git-scm.com)  
+[VS Code](https://code.visualstudio.com)  
+[Deno@1.20+](https://deno.land)
 
 ### Install & Run
 ```sh

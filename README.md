@@ -1,7 +1,17 @@
 # unknown-game
 An unknown game of unknown design.
 
-# game design ideas
+### Runtime
+[Deno](https://deno.land)
+
+### Install & Run
+```sh
+git clone git@github.com:orsi/unknown-game.git
+cd unknown-game
+deno task start
+```
+
+### game design ideas
 - most games start out with the characters having limited abilities and gaining more throughout; this game should start out with the game having limited features features and gain more throughout -- monochrome -> colour, 8-bit -> 3D, poor resolution to high definition, bleeps and bloops -> orchestrated
 - effects on character should effect gameplay mechanics: main character is blinded -> blurry or black screen; stunned -> mouse or keyboard input disabled
 - i like the Legend of Mana technique system: pressing jump and crouch (two actions on two different controls) performs highjump -> repeated performance unlocks high jump as singular action -> high jump now assignable as one action on one control

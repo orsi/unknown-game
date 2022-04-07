@@ -1,7 +1,9 @@
 # unknown-game
 An unknown game of unknown design.
 
-### Runtime
+### Requirements
+[git](https://git-scm.com)
+[VS Code](https://code.visualstudio.com)
 [Deno](https://deno.land)
 
 ### Install & Run
